@@ -1,1 +1,1 @@
-# sqlalchemy_challenge
+SQL Alchemy challenge utilizing Hawaii data.
